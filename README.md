@@ -14,13 +14,17 @@ Concretely, it consists of three components:
 
 Figure 1 (a) and (b) show the architecture of the framework and the train feature extractor, respectively.
 
-![Fig. 1 framework of policy and structure of train learner](./framework of policy and structure of train learner-1.png)
+
+
+![Fig. 1 framework of policy and structure of train learner](framework of policy and structure of train learner-1.png)
 
 *Figure 1  (a) Overview of AutoDwell; (b) Structure of the train feature extractor*
 
 Figure 2 shows the Component 2 and 3, which are the passenger feature extractor and transfer station learner.
 
-![structure of passenger learner-1](./structure of passenger learner-1.png)
+
+
+![structure of passenger learner-1](structure of passenger learner-1.png)
 
 Figure 4: (a) An example of metro system. (b) Overview of the passenger feature extractor; (c) Structure of the transfer station learner.
 
