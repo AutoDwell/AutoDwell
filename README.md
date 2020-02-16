@@ -26,7 +26,7 @@ Figure 2 shows the Component 2 and 3, which are the passenger feature extractor 
 
 ![](img/2.png)
 
-Figure 4: (a) An example of metro system. (b) Overview of the passenger feature extractor; (c) Structure of the transfer station learner.
+Figure 2: (a) An example of metro system. (b) Overview of the passenger feature extractor; (c) Structure of the transfer station learner.
 
 ## <!--Reference-->
 
