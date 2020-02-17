@@ -6,9 +6,9 @@ We propose to use deep reinforcement learning (DRL) framework to learn the polic
 
 ## Structure
 
-Figure 1 (a) shows the architecture of the network. which consists of three components:
+Figure 1 (a) shows the architecture of the network, which consists of three components:
 
-1. A *train feature extractor* to capture interactions between the current train and other trains on the same line based on the train state. (see Figure 1(b) for the structure of the component)
+1. A *train feature extractor* to capture interactions between the current train and other trains on the same line based on the train state (see Figure 1(b) for the structure of the component).
 2. A *passenger feature extractor* for embedding the upcoming passengers’ information among the passenger state by considering and weighing the ST correlations among all these subsequent stations of the train (the structure of the component can be found in Figure 2).
 3. A *fusion network* to fuse the two parts of knowledge and accordingly provide Q-values for actions.
 
